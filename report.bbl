@@ -1,0 +1,31 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bland(1977)]{NFPR}
+Bland, R.~G.
+\newblock New finite pivoting rules for the simplex method.
+\newblock \emph{Mathematics of Operations Research}, 2\penalty0 (2):\penalty0
+  103--107, 1977.
+\newblock ISSN 0364765X, 15265471.
+\newblock URL \url{http://www.jstor.org/stable/3689647}.
+
+\bibitem[Dantzig(August 1963)]{LPE}
+Dantzig, G.~B.
+\newblock \emph{Linear Programming and Extensions}.
+\newblock Princeton University Press, August 1963.
+
+\bibitem[Jiri~Matousek(2007)]{UULP}
+Jiri~Matousek, B.~G.
+\newblock \emph{Understanding and Using Linear Programming}.
+\newblock Springer Science \& Business Media, 2007.
+
+\bibitem[Schrijver(1986)]{TLIP}
+Schrijver, A.
+\newblock \emph{Theory of Linear and Integer Programming}.
+\newblock John Wiley \& Sons, 1986.
+
+\end{thebibliography}
